@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "alx-low_level_programming-2",
+			"path": "../../../../alx-low_level_programming-2"
+		},
+		{
+			"path": "../../../../../Monty"
+		},
+		{
+			"name": "sorting_algorithms",
+			"path": "../../../../../sorting_algorithms/sorting_algorithms"
+		},
+		{
+			"name": "sorting_algorithms-1",
+			"path": "../../../../../sorting_algorithms/sorting_algorithms-1"
+		},
+		{
+			"name": "sorting_algorithms-2",
+			"path": "../../../../../sorting_algorithms/sorting_algorithms-2"
+		}
+	],
+	"settings": {}
+}
